@@ -5,6 +5,7 @@
 * [Backbone](#backbone)
 * [Bootstrap](#bootstrap)
 * [Bottle](#bottle)
+* [Chef](#chef)
 * [Django](#django)
 * [Drupal](#drupal)
 * [Email](#email)
@@ -17,6 +18,7 @@
 * [PHP](#php)
 * [Python](#python)
 * [Rails](#rails)
+* [Sinatra](#sinatra)
 * [Wordpress](#wordpress)
 * [Zend](#zend)
 
@@ -36,6 +38,7 @@
 
 ###AppEngine
 * [gae-boilerplate](https://github.com/coto/gae-boilerplate) - Bootstrap, HTML5 Boilerplate, jQuery, Modernizr
+* [appengine-boilerplate](https://github.com/metachris/appengine-boilerplate) - HTML5 Boilerplate, OpenID, memcache, user preferences
 
 
 ###Backbone
@@ -60,6 +63,7 @@
 * [django-html5-boilerplate](https://github.com/mike360/django-html5-boilerplate) - HTML5 Boilerplate
 * [django-frontend-skeleton](https://github.com/jonfaustman/django-frontend-skeleton) - Bootstrap, HTML5
 * [vagrant-django-template](https://github.com/torchbox/vagrant-django-template) - HTML5 Boilerplate, jQuery, Vagrant
+* [django-herokuapp](https://github.com/etianen/django-herokuapp) - Heroku
 
 
 ###Drupal
@@ -103,6 +107,7 @@
 * [node-boilerplate](https://github.com/robrighter/node-boilerplate) - Connect, Express, Jade, Socket.IO
 * [mean](https://github.com/linnovate/mean/) - AngularJS, Express, MongoDB
 * [node-foundation-boilerplate](https://github.com/huffpostlabs/node-foundation-boilerplate) - Foundation, Jade, jQuery
+* [Heroku-Boilerplate](https://github.com/johnschimmel/Heroku-Boilerplate) - Heroku
 
 
 ###PHP
@@ -116,6 +121,10 @@
 
 ###Rails
 * [rails-boilerplate](https://github.com/khelben/rails-boilerplate) - HTML5 Boilerplate, Modernizr
+
+
+###Sinatra
+[sinatra-boilerplate](https://github.com/l3ck/sinatra-boilerplate) - Compass, HTML5 Boilerplate, Modernizr
 
 
 ###Wordpress
