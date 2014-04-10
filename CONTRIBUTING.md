@@ -26,7 +26,9 @@ We are adults. Let's respect the next standard.
 + All lists are ```.md``` files. Try to learn Github's Markdown syntax. It's simple!
 + All the lists start with an Index, the idea is to show all of sections and subsections there, so it's important to have an index for each section. Right now it's alphabetized, so please use alphabetic order.
 + Sections are using level 3 heading (in HTML is ```<h3>```, in Markdown is ```###```), and subsections are using level 4 (in Markdown is ####).
-+ Sections consist of a level 3 heading for the primary technology
++ Sections consist of a level 3 heading for the primary technology, and a list of repositories,
++ Repositories are listed with the repository name followed by a comma separated list of included features.
++ Boilerplates with identical names should be listed in the format username/repo-name.
 
 The idea is to have
 + ```2``` empty lines between last suggested boilerplate & header 
