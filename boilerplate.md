@@ -20,7 +20,8 @@
 
 
 ###Flask
-* [flask-boilerplate](https://github.com/mjhea0/flask-boilerplate) - Bootstrap, Coverage, Fabric, Flask-SQLAlchemy, Flask-WTF
+* [mjhea0/flask-boilerplate](https://github.com/mjhea0/flask-boilerplate) - Bootstrap, Coverage, Fabric, Flask-SQLAlchemy, Flask-WTF
+* [swaroopch/flask-boilerplate](https://github.com/swaroopch/flask-boilerplate) - 960.gs, HTML5 Boilerplate, jQuery
 
 
 ###Node.js
