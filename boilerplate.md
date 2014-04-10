@@ -1,4 +1,5 @@
 ###Index
+* [Android](#android)
 * [AngularJS](#angularjs)
 * [AppEngine](#appengine)
 * [Bottle](#bottle)
@@ -9,12 +10,23 @@
 * [Go](#go)
 * [HTML5](#html5)
 * [Node.js](#node.js)
+* [PHP](#php)
 * [Python](#python)
 * [Rails](#rails)
+* [Zend](#zend)
+
+
+###Android
+* [android-bootstrap](https://github.com/AndroidBootstrap/android-bootstrap)
+* [androidkickstartr](https://github.com/e-biz/androidkickstartr/)
+* [android-boilerplate](https://github.com/workingBen/android-boilerplate)
 
 
 ###AngularJS
+* [angular-seed](https://github.com/angular/angular-seed)
 * [ngBoilerplate](https://github.com/ngbp/ngbp) - Bootstrap, Angular UI, Angular Bootstrap, Font Awesome, LESS
+* [generator-angular](https://github.com/yeoman/generator-angular) 
+* [AngularJS-SPA-Template](https://github.com/kriasoft/AngularJS-SPA-Template) - Bootstrap, HTML5 Boilerplate, ASP.NET Web Pages, ASP.NET Web Optimization Framework
 
 
 ###AppEngine
@@ -26,9 +38,14 @@
 * [python-bottle-appengine-boilerplate](https://github.com/ranzwertig/python-bottle-appengine-boilerplate)
 
 
+###Chef
+* [chef-boilerplate](https://github.com/gilles/chef-boilerplate) - Cookbooks: users, sudo, nginx, unicorn, rails, rvm
+
+
 ###Django
 * [django-html5-boilerplate](https://github.com/mike360/django-html5-boilerplate) - HTML5
 * [django-frontend-skeleton](https://github.com/jonfaustman/django-frontend-skeleton) - Bootstrap, HTML5
+* [vagrant-django-template](https://github.com/torchbox/vagrant-django-template) - HTML5 Boilerplate, jQuery, Vagrant
 
 
 ###Ember
@@ -53,7 +70,9 @@
 
 ###HTML5
 * [html5-boilerplate](https://github.com/h5bp/html5-boilerplate/) - jQuery, Modernizr, Normalize.css
+* [mobile-boilerplate](https://github.com/h5bp/mobile-boilerplate) - jQuery, Modernizr
 * [initializer](https://github.com/verekia/initializr)
+* [Skeleton](https://github.com/dhg/Skeleton/)
 
 
 ###Node.js
@@ -63,9 +82,19 @@
 * [node-foundation-boilerplate](https://github.com/huffpostlabs/node-foundation-boilerplate) - Foundation, Jade, jQuery
 
 
+###PHP
+* [php-boilerplate](https://github.com/cgunther/php-boilerplate) - HTML5 Boilerplate
+* [skeleton](http://russellbishop.co.uk/skeleton/)
+
+
 ###Python
 * [python-project-template](https://github.com/seanfisk/python-project-template) - Paver, Setuptools, Sphinx, flake8, pytest, mock, tox
 
 
 ###Rails
 * [rails-boilerplate](https://github.com/khelben/rails-boilerplate) - HTML5 Boilerplate, Modernizr
+
+
+###Zend
+* [zfb2](https://github.com/michael-romer/zfb2)
+* [zf-boilerplate](https://github.com/michael-romer/zf-boilerplate)
