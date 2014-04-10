@@ -2,7 +2,7 @@
 Welcome!
 This guide details how to contribute to this repository.
 
-### Credit: This guide is shamelessly modeled after the [CONTRIBUTING](https://github.com/vhf/free-programming-books/blob/master/CONTRIBUTING.md) file in the fantastic [free-programming-books](https://github.com/vhf/free-programming-books) repository.
+#### Credit: This guide is shamelessly modeled after the [CONTRIBUTING](https://github.com/vhf/free-programming-books/blob/master/CONTRIBUTING.md) file in the fantastic [free-programming-books](https://github.com/vhf/free-programming-books) repository.
 
 ## Contributor license agreement
 By submitting code you agree to the [LICENSE](/LICENSE) of this repository.
@@ -36,10 +36,6 @@ The idea is to have
 
 Like this example:
 ```
-[...]
-* [Essential Pascal Version 1 and 2](http://www.marcocantu.com/epascal/)
-
-
 ###Flask
 * [flask-boilerplate](https://github.com/mjhea0/flask-boilerplate) - Bootstrap, Coverage, Fabric, Flask-SQLAlchemy, Flask-WTF
 
