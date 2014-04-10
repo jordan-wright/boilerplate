@@ -124,6 +124,7 @@
 
 
 ###Sinatra
+* [sinatra-template](https://github.com/zapnap/sinatra-template) - DataMapper, Haml, RSpec
 * [l3ck/sinatra-boilerplate](https://github.com/l3ck/sinatra-boilerplate) - Compass, HTML5 Boilerplate, Modernizr
 * [karlcoelho/sinatra-boilerplate](https://github.com/karlcoelho/sinatra-boilerplate) - Bootstrap, jQuery, Modernizr
 
