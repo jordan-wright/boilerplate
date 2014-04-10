@@ -73,7 +73,7 @@
 
 ###Email
 * [email-blueprints](https://github.com/mailchimp/Email-Blueprints)
-* [htmlemailboilerplate](http://htmlemailboilerplate.com/)
+* [Email-Boilerplate](https://github.com/seanpowell/Email-Boilerplate/)
 
 
 ###Flask
