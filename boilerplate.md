@@ -2,17 +2,21 @@
 * [Android](#android)
 * [AngularJS](#angularjs)
 * [AppEngine](#appengine)
+* [Backbone](#backbone)
 * [Bottle](#bottle)
 * [Django](#django)
+* [Drupal](#drupal)
 * [Email](#email)
 * [Ember](#ember)
 * [Flask](#flask)
 * [Go](#go)
 * [HTML5](#html5)
+* [LaTeX](#latex)
 * [Node.js](#node.js)
 * [PHP](#php)
 * [Python](#python)
 * [Rails](#rails)
+* [Wordpress](#wordpress)
 * [Zend](#zend)
 
 
@@ -33,6 +37,10 @@
 * [gae-boilerplate](https://github.com/coto/gae-boilerplate) - Bootstrap, HTML5 Boilerplate, jQuery, Modernizr
 
 
+###Backbone
+* [backbone-boilerplate](https://github.com/backbone-boilerplate/backbone-boilerplate) - HTML5 Boilerplate, jQuery, RequireJS
+
+
 ###Bottle
 * [bottle-mvc](https://github.com/salimane/bottle-mvc) 
 * [python-bottle-appengine-boilerplate](https://github.com/ranzwertig/python-bottle-appengine-boilerplate)
@@ -46,6 +54,11 @@
 * [django-html5-boilerplate](https://github.com/mike360/django-html5-boilerplate) - HTML5
 * [django-frontend-skeleton](https://github.com/jonfaustman/django-frontend-skeleton) - Bootstrap, HTML5
 * [vagrant-django-template](https://github.com/torchbox/vagrant-django-template) - HTML5 Boilerplate, jQuery, Vagrant
+
+
+###Drupal
+* [drupal-boilerplate](https://github.com/Lullabot/drupal-boilerplate)
+* [Drupal-7-Starter-Theme](https://github.com/mattbanks/Drupal-7-Starter-Theme) - HTML5 Boilerplate, Modernizr, Normalize.css
 
 
 ###Ember
@@ -75,6 +88,10 @@
 * [Skeleton](https://github.com/dhg/Skeleton/)
 
 
+###LaTeX
+* [latex-boilerplate](https://github.com/gbluma/latex-boilerplate)
+
+
 ###Node.js
 * [hackathon-starter](https://github.com/sahat/hackathon-starter) - OAuth, many [third-party packages](https://github.com/sahat/hackathon-starter#list-of-packages)
 * [node-boilerplate](https://github.com/robrighter/node-boilerplate) - Connect, Express, Jade, Socket.IO
@@ -93,6 +110,12 @@
 
 ###Rails
 * [rails-boilerplate](https://github.com/khelben/rails-boilerplate) - HTML5 Boilerplate, Modernizr
+
+
+###Wordpress
+* [roots](https://github.com/roots/roots) - Bootstrap, HTML5 Boilerplate
+* [bones](https://github.com/eddiemachado/bones)
+* [WordPress-Plugin-Boilerplate](https://github.com/tommcfarlin/WordPress-Plugin-Boilerplate)
 
 
 ###Zend
