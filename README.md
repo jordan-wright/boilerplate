@@ -1,5 +1,7 @@
 #boilerplate
 ##Intro
+TL;DR - View the list [here](/boilerplate.md)!
+
 This list contains free boilerplate templates to help you get started on a new project quickly. Modeled after the fantastic [free-programming-books](https://github.com/vhf/free-programming-books) repository, the goal of this list is to contain boilerplates for as many languages and project goals as possible.
 
 This list is on GitHub to encourage pull-requests and contributions!
