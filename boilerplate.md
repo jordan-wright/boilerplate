@@ -92,6 +92,7 @@
 
 
 ###HTML5
+* [web-starter-kit](https://github.com/google/web-starter-kit/)
 * [html5-boilerplate](https://github.com/h5bp/html5-boilerplate/) - jQuery, Modernizr, Normalize.css
 * [mobile-boilerplate](https://github.com/h5bp/mobile-boilerplate) - jQuery, Modernizr
 * [initializer](https://github.com/verekia/initializr)
